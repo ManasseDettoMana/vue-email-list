@@ -23,10 +23,11 @@ export default {
                 })
         }
     }
-
 }
 </script>
 
-<style>
-
+<style scoped lang="scss">
+    li{
+        list-style-type: none;
+    }
 </style>
